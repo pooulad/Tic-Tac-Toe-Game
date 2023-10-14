@@ -1,4 +1,5 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+![image](https://github.com/pooulad/Tic-Tac-Toe-Game/assets/86445458/cb8a90f4-0487-4dd8-b2f7-67a620b57b08)
 
 ## Getting Started
 
